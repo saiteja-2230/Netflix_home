@@ -1,0 +1,166 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.bg{
+    background-image: url("back.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+.one img{
+    height: 100px;
+    width: 200px;
+    margin-top: 20px;
+}
+.two {
+    margin-top: 26px;
+    padding-left: 850px;
+}
+
+.three button{
+    margin-top: 50px;
+
+}
+.four{
+    margin-top:130px;
+}
+.four h1{
+    font-size: 50px;
+}
+.four h5{
+    margin-top: 30px;
+}
+.four h6{
+    margin-top: 20px;
+}
+.four input{
+    margin-left: 380px;
+}
+.four input[type=email]{
+    margin-top: 30px;
+    padding-left: 10px;
+    width: 40%;
+    height:55px;
+    background-color: black;
+    color: white;
+}
+.four button{
+    height: 50px;
+}
+.fourr {
+    border: 6px solid gray;
+}
+.bg1{
+    background-color: black;
+    height: 500px;
+}
+.five{
+    margin-top: 150px;
+}
+.five h1{
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.six img{
+    padding-right:100px;
+}
+.seven img{
+    margin-top: 50px;
+    padding-left: 100px;
+}
+.eight h1{
+    margin-top: 160px;
+    font-size: 50px;
+}
+.eight h5{
+    margin-top: 15px;
+}
+.nine{
+    margin-top: 200px;
+}
+
+.nine h1{
+    font-size: 50px;
+}
+.nine h5{
+    margin-top: 15px;
+}
+.ten img{
+    margin-top: 100px;
+}
+.eleven img{
+    margin-top: 70px;
+    padding-left: 90px;
+}
+.twelve h1{
+    margin-top: 150px;
+    padding-right: 100px;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.thirteen h1{
+    text-align: center;
+    margin-left: 150px;
+    font-size: 50px;
+    padding-top:50px;
+    margin-right:180px;
+    margin-bottom: 50px;
+}
+.fourteen h5{
+    margin: 20px 30px;
+    padding-left: 40px;
+}
+.bk{
+    background-color: gray;
+    height: 70px;
+    margin-bottom: 20px;
+}
+.fifteen i{
+    font-size: 35px;
+    padding-right: 80px;
+}
+.bk:hover{
+    background-color: brown;
+}
+.sixteen h5{
+    margin: 20px 30px;
+    padding-left: 40px;
+}
+.seventeen i{
+    font-size: 35px;
+    padding-right: 80px;
+}
+.bg2{
+    background-color: black;
+    height: 730px;
+}
+.eighteen h5{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 20px;
+}
+.nineteen input[type=email]{
+    height:55px;
+    width: 30%;
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+    padding-left: 10px;
+    border: 2px solid orangered;
+}
+.nineteen input{
+    margin-left: 400px;
+}
+.nineteen button{
+    height: 58px;
+    margin-bottom: 5px;
+}
